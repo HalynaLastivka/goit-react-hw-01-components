@@ -8,10 +8,6 @@ import data from './data';
 import friends from './friends';
 import transactions from './transactions';
 
-// import css from './App.module.css';
-
-// const status = users.stats;
-
 export const App = props => {
   return (
     <>
